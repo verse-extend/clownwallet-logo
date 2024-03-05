@@ -1,0 +1,11 @@
+{
+    "name": "Thter USDT",
+    "website": "https://tokenpocket.pro",
+    "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
+    "explorer": "https://testnet.iniscan.com/address/0x36AA81a7aEeAB8f09e154d3E779Bb81beA54501A",
+    "type": "IRC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x36AA81a7aEeAB8f09e154d3E779Bb81beA54501A"
+   }
