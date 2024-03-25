@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped INI",
+    "website": "https://www.clownwallet.com",
+    "description": "Initverse chain",
+    "explorer": "https://testnet.iniscan.com/address/0x9e66cd15226464EFBa8b7B2847A0880AFC236c5C",
+    "type": "IRC20",
+    "symbol": "WINI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9e66cd15226464EFBa8b7B2847A0880AFC236c5C"
+   }
